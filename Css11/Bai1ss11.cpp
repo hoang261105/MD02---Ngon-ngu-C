@@ -16,7 +16,7 @@ int main(){
     		case 1:
     			int n;
     			printf("Nhap so phan tu cua mang: ");
-	            scanf("%d",&n);
+	                scanf("%d",&n);
     			for(int i=0; i<n; i++){
 	            	printf("num[%d]=",i);
 	            	scanf("%d", &num[i]); 
